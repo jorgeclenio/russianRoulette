@@ -15,7 +15,7 @@ cd  russianRoulette/
 
 3. Executar o script:
 ```bash
-sudo python3 russian_roulette.py
+sudo python3 russianRoulette.py
 ```
 
 <h3 align='center'> ⚠ FAÇA POR SUA CONTA E RISCO ⚠ </h3>
