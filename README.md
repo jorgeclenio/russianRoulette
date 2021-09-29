@@ -3,15 +3,18 @@
 
 <h2 align='center'>Como rodar esse script no Linux </h2>
 
-
+1. Baixe o projeto na sua máquina:
 ```bash
-# 1. Baixe o projeto na sua máquina:
 git clone https://github.com/jorgeclenio/russianRoulette.git
+```
 
-# 2. Entre na pasta do projeto:
+2. Entre na pasta do projeto:
+```bash
 cd  russianRoulette/
+```
 
-# 3. Execute o script:
+3. Execute o script:
+```bash
 sudo python3 russianRoulette.py
 ```
 
